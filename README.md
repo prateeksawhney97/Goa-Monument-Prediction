@@ -11,3 +11,6 @@ Hence there must be a mobile application which renders information about the mon
 
 1. Ajoba Temple Goa
 2. Shanta Durga Temple
+3. Fort Aguada
+4. Our Lady of the Immaculate Conception Church, Goa
+5. Viceroys Arch, Goa
