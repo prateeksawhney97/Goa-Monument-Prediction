@@ -36,3 +36,7 @@ Hence there must be a mobile application which renders information about the mon
 - Total params: 3,817,063
 - Trainable params: 3,817,063
 - Non-trainable params: 0
+
+
+##### Accuracy:  0.9940
+##### Validation Accuracy: 0.7381
