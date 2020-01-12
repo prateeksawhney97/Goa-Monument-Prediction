@@ -7,6 +7,10 @@ Goa is a major tourist destination which pulls thousands of tourists every year.
 
 Hence there must be a mobile application which renders information about the monument or landmark just by taking their live pictures as inputs. In other word, the application should allow the user to click a photograph and based on the picture it should display information about the monument/landmark. 
 
+
+![Basilica_of_Bom_Jesus_-_Old_Goa](https://user-images.githubusercontent.com/34116562/72215966-9445c180-3540-11ea-9d09-97b193d42eb5.jpg)
+
+
 ### Monuments Included:
 
 1. Ajoba Temple Goa
