@@ -1,1 +1,1 @@
-# Goa-Monument-Prediction
+# Goa-Monument-Prediction-Challenge
