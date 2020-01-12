@@ -8,3 +8,6 @@ Goa is a major tourist destination which pulls thousands of tourists every year.
 Hence there must be a mobile application which renders information about the monument or landmark just by taking their live pictures as inputs. In other word, the application should allow the user to click a photograph and based on the picture it should display information about the monument/landmark. 
 
 ### Monuments Included:
+
+1. Ajoba Temple Goa
+2. Shanta Durga Temple
