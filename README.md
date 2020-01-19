@@ -12,7 +12,7 @@ Hence there must be a mobile application which renders information about the mon
 
 ### Flask Application:
 
-#### Website: https://goaml-265511.appspot.com/
+#### Website: https://goaml-265511.appspot.com/ (Deployed on Google Cloud Platform)
 
 #### GitHub: https://github.com/prateeksawhney97/Flask-Application-for-Goa-Monuments-Prediction
 
